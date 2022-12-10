@@ -1,0 +1,15 @@
+.ima {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  background-color: #fffbe9;
+}
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  color: green;
+}
